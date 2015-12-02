@@ -15,7 +15,7 @@ const string MIDDLE = "  *  ";
 const string SP = " ";
 //SP = Space
 
-int main()
+int main( )
 {
 	string msg;
 
