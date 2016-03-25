@@ -1,6 +1,6 @@
 //Ronald Thiessen
 //CS 1361
-//Lab 17
+//Bonus Lab
 /*This program serves as a math tutor. The user can choose from a menu
 which type of problem they want to work
 No if statements were used
